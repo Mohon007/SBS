@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{F975BC74-5648-4777-AC99-672E86CD3A19}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HRM", "HRM", "{BB6BE75B-E357-463B-98C9-E950E33A0408}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BB6BE75B-E357-463B-98C9-E950E33A0408} = {F975BC74-5648-4777-AC99-672E86CD3A19}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E9DC2C2-4E1F-4937-81F7-6846B04E6072}
+	EndGlobalSection
+EndGlobal
